@@ -53,10 +53,10 @@
           </h3>
           <div class="text-footer-text">
             <ul>
-              <li class="ml-2 py-1">1111 N. Northshore Drive N600, Knoxville, TN 37919</li>
-              <li class="ml-2 py-1">(O): (865)-394-5904</li>
+              <li class="ml-2 py-1">140 Major Reynolds Place, Knoxville, TN 37919</li>
+              <li class="ml-2 py-1">(O): (865)-584-4000</li>
               <li class="ml-2 py-1">(M): (443)-452-7163</li>
-              <li class="ml-2 py-1">amberrobinson22@kw.com</li>
+              <li class="ml-2 py-1">Amber.Robinson@wallacetn.com</li>
             </ul>
           </div>
         </div>

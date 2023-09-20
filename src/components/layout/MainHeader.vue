@@ -20,7 +20,7 @@
           <!-- <a href="/">
             LOGO
           </a> -->
-          <img src="https://cflare.smarteragent.com/rest/Resizer?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic-img-prod-1c53%2Fweb%2Flogo-kw.png&quality=0.8&webp=true&sig_id=69" alt="Logo">
+          <img class="w-2/4" src="https://lirp.cdn-website.com/624b0e6e/dms3rep/multi/opt/Wallace+Logo+Horiz+-+Midnight+SKy+%282%29-640w.png" alt="Logo">
         </div>
 
         <div class="text-gray-800 sm:block md:hidden">
